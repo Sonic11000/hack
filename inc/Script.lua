@@ -4056,6 +4056,7 @@ elseif Text== "العالمي" or Text== "عالمي" then return  sendMsg(msg.c
 elseif Text== "محمد سمير" or Text== "سمير " then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/Best_roma5)")
 elseif Text== "وليد" or Text== "وليدد " then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/Lookacv)")
 elseif Text== "سام" or Text== "سان " then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/XxxMalificentxxX)")
+elseif Text== "مودي" or Text== "رسلان" then return  sendMsg(msg.chat_id_,msg.id_,"[اخو العالمي ♲](https://t.me/moody52)")
 elseif Text== "رفع غبي"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم رفع الغبي بنجاح↯\n• تمت إضافته إلى قائمه الأغبياء\n☆")
 elseif Text== "تنزيل غبي"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم تنزيل الغبي بنجاح↯\n• تمت الزاله من قائمه الأغبياء\n☆")
 elseif Text== "رفع كلب"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم رفع الكلب بنجاح↯\n• تمت إضافته إلى قائمه الكلاب\n☆")
