@@ -1876,7 +1876,7 @@ return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\
 elseif UserID == 1377559539 then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif UserID == 1359541149 then 
-return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") l
+return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر مطور السورس\n") 
 elseif redis:sismember(hack..':SUDO_BOT:',UserID) then 
 return sendMsg(ChatID,MsgID,"• **لا يمكنك حظر المطور\n") 
 elseif redis:sismember(hack..':MONSHA_BOT:'..ChatID,UserID) then 
