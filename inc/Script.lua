@@ -2468,6 +2468,16 @@ return [[
 ]]
 end
 
+if MsgText[1] == "افلام" or MsgText[1]=="الافلام" then
+return [[
+⌔ - قائمه الافلام 
+ — — — — — — — — — 
+اديلوههم هكر @Alamy3
+
+		
+]]
+end
+
 if MsgText[1] == "التاريخ" then
 return "\n•  الـتـاريـخ : "..os.date("%Y/%m/%d")
 end
