@@ -1185,7 +1185,7 @@ local lock_service = redis:get(hack..'lock_service')
 if lock_service then 
 sendMsg(msg.chat_id_,msg.id_,'• *تـم تـفـعـيـل الـمـجـمـوعـه .️ \n• *وتم رفع جمـيع المشرفين ادمن .‏‏‏ \n @SouRce_hacker')
 else
-sendMsg(msg.chat_id_,msg.id_,'• تـم تـفـعـيـل الـمـجـمـوعـه‏‏ \n')
+sendMsg(msg.chat_id_,msg.id_,'• تـم تـفـعـيـل الـمـجـمـوعـه‏‏ \n'@SouRce_hacker)
 end
 GetChannelAdministrators(msg.chat_id_,function(arg,data)
 for k,v in pairs(data.members_) do
@@ -1642,6 +1642,8 @@ elseif  UserID == 1377559539 then
 var =  'مطور السورس'
 elseif  UserID == 1359541149 then
 Getrtb =  'مطور السورس'
+elseif  UserID == 754272612 then
+Getrtb =  'مطور السورس'				
 elseif redis:sismember(hack..':SUDO_BOT:',UserID) then
 Getrtb = 'مطور ' 
 elseif redis:sismember(hack..':KARA_BOT:'..ChatID,UserID) then
