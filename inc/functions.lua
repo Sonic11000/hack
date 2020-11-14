@@ -1185,7 +1185,7 @@ local lock_service = redis:get(hack..'lock_service')
 if lock_service then 
 sendMsg(msg.chat_id_,msg.id_,'• *تـم تـفـعـيـل الـمـجـمـوعـه .️ \n• *وتم رفع جمـيع المشرفين ادمن .‏‏‏ \n @SouRce_hacker')
 else
-sendMsg(msg.chat_id_,msg.id_,'• تـم تـفـعـيـل الـمـجـمـوعـه‏‏ \n'@SouRce_hacker)
+sendMsg(msg.chat_id_,msg.id_,'• تـم تـفـعـيـل الـمـجـمـوعـه‏‏ \n')
 end
 GetChannelAdministrators(msg.chat_id_,function(arg,data)
 for k,v in pairs(data.members_) do
