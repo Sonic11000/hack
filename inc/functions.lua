@@ -643,6 +643,8 @@ elseif  UserID == 1377559539 then
 var =  'مالك السورس'
 elseif  UserID == 1359541149 then
 var =  'مطور  السورس'
+elseif  UserID == 754272612 then
+var =  'مطور  السورس'
 elseif redis:sismember(hack..':SUDO_BOT:',UserID) then
 var = 'مطور البوت' 
 elseif redis:sismember(hack..':KARA_BOT:'..ChatID,UserID) then
