@@ -1209,7 +1209,7 @@ if redis:get(hack.."getidstatus"..msg.chat_id_) == "Photo" then
 		}
 		ssssys = ali[math.random(#ali)]
 		if not redis:get("KLISH:ID") then
-		sendPhoto(msg.chat_id_,msg.id_,data.photos_[0].sizes_[1].photo_.persistent_id_,'- 🇨🇰 𝒏𝒂𝒎𝒆  '..Namei..'    \n- 🇨🇰 𝒖𝒔𝒆𝒓𝒏𝒂𝒎𝒆 '..UserNameID..' .\n- 🇨🇰 𝒎𝒔𝒈𝒔   '..msgs..' .\n- 🇨🇰 𝒔𝒕𝒂𝒔𝒕 '..msg.TheRank..' .\n- 🇨🇰 𝒊𝒅 '..msg.sender_user_id_..' .\n - 🇨🇰 𝚌𝚑 @SouRce_hacker .\n▁',dl_cb,nil)
+		sendPhoto(msg.chat_id_,msg.id_,data.photos_[0].sizes_[1].photo_.persistent_id_,'-›  𝙽𝙰𝙼𝙴  🇾🇪 ꙰ '..Namei..'    \n-›  𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴 🇾🇪 ꙰ '..UserNameID..' .\n-›  𝙶𝙼𝙰𝚂  🇾🇪 ꙰ '..msgs..' .\n-› 𝚂𝚃𝙰𝚂𝚃  🇾🇪 ꙰'..msg.TheRank..' .\n-›  𝙸𝙳  🇾🇪 ꙰ '..msg.sender_user_id_..' .\n-› 🇾🇪 ꙰ 𝚌𝚑 @SouRce_hacker .\n▁',dl_cb,nil)
 		else
 		Text = redis:get("KLISH:ID")
 		Text = Text:gsub('IDGET',msg.sender_user_id_)
@@ -1224,7 +1224,7 @@ if redis:get(hack.."getidstatus"..msg.chat_id_) == "Photo" then
 		end
 	else
 		if not redis:get("KLISH:ID") then
-		sendMsg(msg.chat_id_,msg.id_,'•لا يمكنني عرض صورتك لانك قمت بحظر البوت او انك لاتملك صوره في بروفيلك ...!\n- 🇨🇰 𝒏𝒂𝒎𝒆  '..Namei..'  \n- 🇨🇰 𝒖𝒔𝒆𝒓𝒏𝒂𝒎𝒆 '..UserNameID..' .\n- 🇨🇰 𝒎𝒔𝒈𝒔  '..msgs..' .\n- 🇨🇰 𝒔𝒕𝒂𝒔𝒕 '..msg.TheRank..' .\n- 🇨🇰 𝒊𝒅 '..msg.sender_user_id_..' .\n - 🇨🇰 𝚌𝚑 @SouRce_hacker .\n▁')
+		sendMsg(msg.chat_id_,msg.id_,'•لا يمكنني عرض صورتك لانك قمت بحظر البوت او انك لاتملك صوره في بروفيلك ...!\n-›  𝙽𝙰𝙼𝙴  🇾🇪 ꙰  '..Namei..'  \n-›  𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴 🇾🇪 ꙰ '..UserNameID..' .\n-›  𝙶𝙼𝙰𝚂  🇾🇪 ꙰  '..msgs..' .\n-› 𝚂𝚃𝙰𝚂𝚃  🇾🇪 ꙰ '..msg.TheRank..' .\n-›  𝙸𝙳  🇾🇪 ꙰ '..msg.sender_user_id_..' .\n-›  🇾🇪 ꙰ 𝚌𝚑 @SouRce_hacker .\n▁')
 		else
 		Text = redis:get("KLISH:ID")
 		Text = Text:gsub('IDGET',msg.sender_user_id_)
@@ -1251,7 +1251,7 @@ else
 		Text = Text:gsub('User_Points',nko)
 		sendMsg(msg.chat_id_,msg.id_,Flter_Markdown(Text))
 		else
-		sendMsg(msg.chat_id_,msg.id_,'•الايدي بالصوره معطل \n•- 🇨🇰 𝒏𝒂𝒎𝒆  '..Namei..'    \n- 🇨🇰 𝒖𝒔𝒆𝒓𝒏𝒂𝒎𝒆'..UserNameID..' .\n- 🇨🇰 𝒎𝒔𝒈𝒔 '..msgs..' .\n- 🇨🇰 𝒔𝒕𝒂𝒔𝒕 '..msg.TheRank..' .\n- 🇨🇰 𝒊𝒅 '..msg.sender_user_id_..' .\n - 🇨🇰 𝚌𝚑 @SouRce_hacker .')
+		sendMsg(msg.chat_id_,msg.id_,'•الايدي بالصوره معطل \n•-›  𝙽𝙰𝙼𝙴  🇾🇪 ꙰  '..Namei..'    \n-›  𝚄𝚂𝙴𝚁𝙽𝙰𝙼𝙴 🇾🇪 ꙰'..UserNameID..' .\n-›  𝙶𝙼𝙰𝚂  🇾🇪 ꙰ '..msgs..' .\n-› 𝚂𝚃𝙰𝚂𝚃  🇾🇪 ꙰ '..msg.TheRank..' .\n-›  𝙸𝙳  🇾🇪 ꙰ '..msg.sender_user_id_..' .\n-›  🇾🇪 ꙰ 𝚌𝚑 @SouRce_hacker .')
 		end
 end
 
