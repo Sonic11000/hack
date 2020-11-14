@@ -2371,15 +2371,15 @@ end
 
 if MsgText[1] == "السورس" or MsgText[1]=="سورس" then
 return [[
- • • >> [˹ 𝒔𝒐𝒖𝒓𝒄𝒆_𝒉𝒂𝒄𝒌𝒆𝒓𖤝.](t.me/SouRce_hacker) 
+ ✧ 𝒔𝒐𝒖𝒓𝒄𝒆_𝒉𝒂𝒄𝒌𝒆𝒓 ✧
  ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ 
  • 𝒅𝒆𝒗 >> [˹ 𝒂𝒍𝒂𝒎𝒚𖤝.](t.me/Alamy3)
-⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ 
  • 𝒅𝒆𝒗 >> [˹ 𝒎𝒐𝒉𝒂𝒎𝒆𝒅.](t.me/Best_roma5)
-⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ 
 • 𝒅𝒆𝒗 >> [˹ 𝒍𝒐𝒐𝒌𝒂𖤝.](t.me/Lookacv)
-⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ 
 • 𝒅𝒆𝒗 >> [˹ 𝒔𝒂𝒎𝒂𝒓𝒂𝒖𝒊𖤝.](t.me/XxxMalificentxxX)
+• 𝒅𝒆𝒗 >> [˹ 𝒎𝒐𝒐𝒅𝒚𖤝.](t.me/moody52)
+• • >> [˹ 𝒔𝒐𝒖𝒓𝒄𝒆_𝒉𝒂𝒄𝒌𝒆𝒓𖤝.](t.me/SouRce_hacker) 
+• •>> [˹ 𝒕𝒐 𝒕𝒂𝒍𝒌 𝒖𝒔𖤝.](t.me/FlassTas4_bot)
 ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ 
 ]]
 end
@@ -2394,8 +2394,8 @@ return [[
 
 ⌔︙رومانسي 𖠽
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Soonicxx)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/UU_FUCK)
+𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
 ]]
 end
 
@@ -2418,8 +2418,8 @@ return [[
 ⌔︙الانسان الاخير
 
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Soonicxx)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/UU_FUCK)
+𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
 ]]
 end
 
@@ -2442,8 +2442,8 @@ return [[
 ⌔︙التحرر
 
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Soonicxx)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/UU_FUCK)
+𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
 ]]
 end
 
@@ -2464,8 +2464,8 @@ return [[
 ⌔︙واختفي كل شئ
 
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Soonicxx)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/UU_FUCK)
+𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
 ]]
 end
 
