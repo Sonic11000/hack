@@ -4068,6 +4068,7 @@ elseif Text== "سام" or Text== "سان " then return  sendMsg(msg.chat_id_,msg
 elseif Text== "مودي" or Text== "رسلان" then return  sendMsg(msg.chat_id_,msg.id_,"[اخو العالمي ♲](https://t.me/moody52)")
 elseif Text== "هايدي" or Text== "قلب العالمي" then return  sendMsg(msg.chat_id_,msg.id_,"[حبيبت العالمي ووبس ♲](https://t.me/H_yah1)")
 elseif Text== "الهكر" or Text== "سورس الهكر" then return  sendMsg(msg.chat_id_,msg.id_,"[افجر سورس مصري ♲](https://t.me/SouRce_hacker)")
+elseif Text== "علام" or Text== "علام الهكر" then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد من الجمدان ★](http://T.ME/M_A_L_L_A_M)")
 elseif Text== "رفع غبي"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم رفع الغبي بنجاح↯\n• تمت إضافته إلى قائمه الأغبياء\n☆")
 elseif Text== "تنزيل غبي"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم تنزيل الغبي بنجاح↯\n• تمت الزاله من قائمه الأغبياء\n☆")
 elseif Text== "رفع كلب"  then return sendMsg(msg.chat_id_,msg.id_,"• أهلاً عزيزي\n• تم رفع الكلب بنجاح↯\n• تمت إضافته إلى قائمه الكلاب\n☆")
