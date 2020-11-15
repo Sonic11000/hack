@@ -2464,7 +2464,6 @@ return [[
 
  — — — — — — — — —
 𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
-𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://.me/Alamy3)
 𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)
 
 ]]
@@ -2472,13 +2471,14 @@ end
 
 if MsgText[1] == "افلام" or MsgText[1]=="الافلام" then
 return [[
+		
+
 ⌔ - قائمه الافلام 
  — — — — — — — — — 
 ⌔︙عربي
 
 ⌔︙اجنبي
-𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)
-		
+𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)	
 𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
 
 ]]
@@ -2486,6 +2486,8 @@ end
 
 if MsgText[1] == "عربي" or MsgText[1]=="العربي" then
 return [[
+
+
 ⌔ - قائمه الافلام العربي
  — — — — — — — — — 
 ⌔︙اللي بالي بالك
@@ -2503,6 +2505,9 @@ return [[
 		
 𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
 
+
+]]
+end
 
 if MsgText[1] == "التاريخ" then
 return "\n•  الـتـاريـخ : "..os.date("%Y/%m/%d")
@@ -4126,7 +4131,7 @@ elseif Text:match(Bot_Name.."كيفك") then
   elseif Text== "ارض زيكولا"  then return sendMsg(msg.chat_id_,msg.id_,"[ارض زيكولا  𖡼](https://t.me/UU_NOVEL/3.")
   elseif Text== "مقبره الحيوانات."  then return sendMsg(msg.chat_id_,msg.id_," [مقبره الحيوانات 𖡼](https://t.me/UU_NOVEL/8)")
   elseif Text== "التحرر"  then return sendMsg(msg.chat_id_,msg.id_,"[التحرر  𖡼](https://t.me/UU_NOVEL/9)")
-  elseif Text== "اللي بالي بالك" then return sendmag(msg.chat_id_,msg.id_,[اللي بالي بالك  𖡼](https://t.me/SouRce_hacker1/122/1)")
+  elseif Text== "اللي بالي بالك" then return sendmag(msg.chat_id_,msg.id_,[اللي بالي بالك  𖡼](https://t.me/SouRce_hacker1/122/50)")
   elseif Text== "روايه المخلوق"  then return sendMsg(msg.chat_id_,msg.id_,"[روايه المخلوق  𖡼](https://t.me/UU_NOVEL/5)")
   elseif Text== "في حضره الجن"  then return sendMsg(msg.chat_id_,msg.id_,"[في حضره الجن  𖡼](https://t.me/UU_NOVEL/6).")
   elseif Text== "موسوعه الظلام"  then  return sendMsg(msg.chat_id_,msg.id_,"[موسوعه الظلام  𖡼](https://t.me/UU_NOVEL/4)."  )
@@ -4597,11 +4602,15 @@ if not redis:get('kar') then
   "^(رومانسي)$",
   "^(رومانسيه)$",
   "^(رعب)$",
-"^(الرعب)$",
-"^(افلام)$",
-"^(عربي)$",
-"^(العربي)$",
-"^(الافلام)$",
+  "^(الرعب)$",
+  "^(افلام)$",
+  "^(عربي)$",
+  "^(العربي)$",
+  "^(الافلام)$",
+
+			
+			
+			
   
   
   
