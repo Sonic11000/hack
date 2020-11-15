@@ -2417,8 +2417,8 @@ return [[
 ⌔︙الانسان الاخير
 
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[source hacker𖡶 ](https://t.me/SouRce_hacker)
 ]]
 end
 
@@ -2441,8 +2441,8 @@ return [[
 ⌔︙التحرر
 
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)
 ]]
 end
 
@@ -2463,8 +2463,10 @@ return [[
 ⌔︙واختفي كل شئ
 
  — — — — — — — — —
-𝙳𝙴𝚅 𖡇 : [𝚂𝙾𝙽𝙸𝙲 𖡼](https://t.me/Alamy3)
-𝙲𝙷 𖣲. :[𝙵𝚄𝙲𝙺 𝙾𝙵𝙵 𖡶 ](https://t.me/SouRce_hacker)
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://.me/Alamy3)
+𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)
+
 ]]
 end
 
@@ -2472,11 +2474,35 @@ if MsgText[1] == "افلام" or MsgText[1]=="الافلام" then
 return [[
 ⌔ - قائمه الافلام 
  — — — — — — — — — 
-اديلوههم هكر @Alamy3
+⌔︙عربي
 
+⌔︙اجنبي
+𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)
 		
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+
 ]]
 end
+
+if MsgText[1] == "عربي" or MsgText[1]=="العربي" then
+return [[
+⌔ - قائمه الافلام العربي
+ — — — — — — — — — 
+⌔︙اللي بالي بالك
+⌔︙اللمبي 8 جيجا
+⌔︙زنزانة 7
+⌔︙بوحة
+⌔︙كركر
+⌔︙تك تك بوم
+⌔︙يوم ايه يوم لاء
+⌔︙يوم العرض
+⌔︙عوكل
+⌔︙كلب بلدي
+
+𝙲𝙷 𖣲. :[source hacker 𖡶 ](https://t.me/SouRce_hacker)
+		
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+
 
 if MsgText[1] == "التاريخ" then
 return "\n•  الـتـاريـخ : "..os.date("%Y/%m/%d")
@@ -4061,11 +4087,11 @@ elseif not msg.SudoUser and Text==" بوت" or Text == "بوت" then
 return 
 sendMsg(msg.chat_id_,msg.id_,nnn[math.random(#nnn)]) 
 elseif Text== "سونيك" or Text== "سوني" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس داني↯](https://t.me/UU_IV)")
-elseif Text== "العالمي" or Text== "عالمي" then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/Alamy3)")
-elseif Text== "محمد سمير" or Text== "سمير " then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/Best_roma5)")
-elseif Text== "وليد" or Text== "وليدد " then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/Lookacv)")
-elseif Text== "سام" or Text== "سان " then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد واحد في التلي ❅](https://t.me/XxxMalificentxxX)")
-elseif Text== "مودي" or Text== "رسلان" then return  sendMsg(msg.chat_id_,msg.id_,"[اخو العالمي ♲](https://t.me/moody52)")
+elseif Text== "العالمي" or Text== "عالمي" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس الهكر ❅](https://t.me/Alamy3)")
+elseif Text== "محمد سمير" or Text== "سمير " then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس الهكر ❅](https://t.me/Best_roma5)")
+elseif Text== "وليد" or Text== "وليدد " then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس الهكر ❅](https://t.me/Lookacv)")
+elseif Text== "سام" or Text== "منه" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس الهكر ❅](https://t.me/XxxMalificentxxX)")
+elseif Text== "مودي" or Text== "رسلان" then return  sendMsg(msg.chat_id_,msg.id_,"[مطور سورس الهكر ♲](https://t.me/moody52)")
 elseif Text== "هايدي" or Text== "قلب العالمي" then return  sendMsg(msg.chat_id_,msg.id_,"[حبيبت العالمي ووبس ♲](https://t.me/H_yah1)")
 elseif Text== "الهكر" or Text== "سورس الهكر" then return  sendMsg(msg.chat_id_,msg.id_,"[افجر سورس مصري ♲](https://t.me/SouRce_hacker)")
 elseif Text== "علام" or Text== "علام الهكر" then return  sendMsg(msg.chat_id_,msg.id_,"[اجمد من الجمدان ★](http://T.ME/M_A_L_L_A_M)")
@@ -4100,6 +4126,7 @@ elseif Text:match(Bot_Name.."كيفك") then
   elseif Text== "ارض زيكولا"  then return sendMsg(msg.chat_id_,msg.id_,"[ارض زيكولا  𖡼](https://t.me/UU_NOVEL/3.")
   elseif Text== "مقبره الحيوانات."  then return sendMsg(msg.chat_id_,msg.id_," [مقبره الحيوانات 𖡼](https://t.me/UU_NOVEL/8)")
   elseif Text== "التحرر"  then return sendMsg(msg.chat_id_,msg.id_,"[التحرر  𖡼](https://t.me/UU_NOVEL/9)")
+  elseif Text== "اللي بالي بالك" then return sendmag(msg.chat_id_,msg.id_,[اللي بالي بالك  𖡼](https://t.me/SouRce_hacker1/122/1)")
   elseif Text== "روايه المخلوق"  then return sendMsg(msg.chat_id_,msg.id_,"[روايه المخلوق  𖡼](https://t.me/UU_NOVEL/5)")
   elseif Text== "في حضره الجن"  then return sendMsg(msg.chat_id_,msg.id_,"[في حضره الجن  𖡼](https://t.me/UU_NOVEL/6).")
   elseif Text== "موسوعه الظلام"  then  return sendMsg(msg.chat_id_,msg.id_,"[موسوعه الظلام  𖡼](https://t.me/UU_NOVEL/4)."  )
@@ -4572,6 +4599,9 @@ if not redis:get('kar') then
   "^(رعب)$",
 "^(الرعب)$",
 "^(افلام)$",
+"^(عربي)$",
+"^(العربي)$",
+"^(الافلام)$",
   
   
   
