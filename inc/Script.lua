@@ -2417,23 +2417,29 @@ return [[
 ]]
 end
 
-if MsgText[1] == "رعب" or MsgText[1]=="الرعب" then
+if MsgText[1] == "اجنبي" or MsgText[1]=="الاجنبي" then
 return [[
-⌔ - روايات الرعب الحاليه 
+⌔ -  قائمه الافلام الاجنبي 
  — — — — — — — — —        
-⌔︙ ارض زيكولا
+⌔︙Vanguard
    
-⌔︙ المخلوق
+⌔︙Moments in Spacetime
 
-⌔︙موسوعه الظلام
+⌔︙Dead Reckoning
 
-⌔︙في حضره الجن
+⌔︙The New Mutants
 
-⌔︙لقاء مع كاتب الرعب
+⌔︙Echo Boomers
 
-⌔︙مقبره الحيوانات
+⌔︙Chick Fight
 
-⌔︙التحرر
+⌔︙Jingle Jangle
+		
+⌔︙Come Away
+		
+⌔︙Death Files
+		
+⌔︙The Retreat
 
  — — — — — — — — —
 𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
@@ -2441,7 +2447,7 @@ return [[
 ]]
 end
 
-if MsgText[1] == "غموض" or MsgText[1]=="الغموض" then
+if MsgText[1] == "كرتون" or MsgText[1]=="الكرتون" then
 return [[
 ⌔ - روايات الغموض الحاليه 
  — — — — — — — — —        
@@ -4077,7 +4083,7 @@ elseif Text:match(Bot_Name.."كيفك") then
   elseif Text== "مخنوق"  then  return sendMsg(msg.chat_id_,msg.id_,"اقرء قرأن."  )
   elseif Text== "مرحبا"  then return sendMsg(msg.chat_id_,msg.id_,"اهلاً عزيزي .")
   elseif Text== "اللي بالي بالك"  then return sendMsg(msg.chat_id_,msg.id_,"[اللي بالي بالك  𖡼](https://t.me/SouRce_hacker1/122.")
-  elseif Text== "7زنزانة"  then return sendMsg(msg.chat_id_,msg.id_," [ زنزانة 7 𖡼](https://t.me/SouRce_hacker1/124)")
+  elseif Text== "زنزانة7"  then return sendMsg(msg.chat_id_,msg.id_," [ زنزانة 7 𖡼](https://t.me/SouRce_hacker1/124)")
   elseif Text== "اللمبي 8 جيجا"  then return sendMsg(msg.chat_id_,msg.id_,"[اللمبي 8 جيجا  𖡼](https://t.me/SouRce_hacker1/123)")
   elseif Text== "بوحة"  then return sendMsg(msg.chat_id_,msg.id_,"[ بوحة  𖡼](https://t.me/SouRce_hacker1/125)")
   elseif Text== "كركر"  then return sendMsg(msg.chat_id_,msg.id_,"[  كركر  𖡼](https://t.me/SouRce_hacker1/126).")
@@ -4088,21 +4094,22 @@ elseif Text:match(Bot_Name.."كيفك") then
   elseif Text== "هيه"  then return sendMsg(msg.chat_id_,msg.id_,"وبعدين" )
     elseif Text== "يوم العرض"  then return sendMsg(msg.chat_id_,msg.id_,"[يوم العرض  𖡼](https://t.me/SouRce_hacker1/129).")
   elseif Text== "عوكل"  then return sendMsg(msg.chat_id_,msg.id_," [ عوكل  𖡼](https://t.me/SouRce_hacker1/130)  ")
+  elseif Text== "ندا" then return sendMsg(msg.chat_,msg.id_," [ بيست ماندو وبس↯](https://t.me/Nadaaaa7/)")
   elseif Text== "كلب بلدي"  then return sendMsg(msg.chat_id_,msg.id_,"[ كلب بلدي  𖡼](https://t.me/SouRce_hacker1/131)")
-  elseif Text== "الشفق"  then return sendMsg(msg.chat_id_,msg.id_,"[روايه الشفق الجزء الاول  𖡼](https://t.me/UU_NOVEL/21)")
-  elseif Text== "كبرياء وتحمل"  then return sendMsg(msg.chat_id_,msg.id_,"[كبرياء وتحمل  𖡼](https://t.me/UU_NOVEL/22).")
-  elseif Text== "الامير السعيد"  then  return sendMsg(msg.chat_id_,msg.id_,"[الامير السعيد  𖡼](https://t.me/UU_NOVEL/23)."  )
-  elseif Text== "الانسان الاخير"  then return sendMsg(msg.chat_id_,msg.id_,"[الانسان الاخير  𖡼](https://t.me/UU_NOVEL/24) .")
+  elseif Text== "Vanguard"  then return sendMsg(msg.chat_id_,msg.id_,"[Vanguard  𖡼](https://t.me/SouRce_hacker1/133)")
+  elseif Text== "Moments in Spacetime"  then return sendMsg(msg.chat_id_,msg.id_,"[Moments in Spacetime   𖡼](https://t.me/SouRce_hacker1/134).")
+  elseif Text== "Dead Reckoning"  then  return sendMsg(msg.chat_id_,msg.id_,"[Dead Reckoning  𖡼](https://t.me/SouRce_hacker1/135)."  )
+  elseif Text== "The New Mutants"  then return sendMsg(msg.chat_id_,msg.id_,"[The New Mutants  𖡼](https://t.me/SouRce_hacker1/136) .")
   elseif Text== "واقف" then return sendMsg(msg.chat_id_,msg.id_,"لا قاعد هخه")
   elseif Text== "متضايق"  then return sendMsg(msg.chat_id_,msg.id_,"سلامتـك")
   elseif Text== "متضايقه"  then return sendMsg(msg.chat_id_,msg.id_,"سـلامتك")
   elseif Text== "هلو" or Text== "هاي." or Text== "هاي" then return sendMsg(msg.chat_id_,msg.id_,"احلي مسا ، افخم هـاي .")
-  elseif Text== "واختفي كل شئ"  then return sendMsg(msg.chat_id_,msg.id_,"[واختفي كل شئ  𖡼](https://t.me/UU_NOVEL/37)")
-  elseif Text== "جثه في الخندق"  then return sendMsg(msg.chat_id_,msg.id_," [جثة في الخندق  𖡼](https://t.me/UU_NOVEL/37) ")
-  elseif Text== "اللوح الازرق"  then return sendMsg(msg.chat_id_,msg.id_,"[اللوح الازرق  𖡼](https://t.me/UU_NOVEL/35)")
-  elseif Text== "نيلوفر الاسود"  then return sendMsg(msg.chat_id_,msg.id_,"[نيلوفر الاسود  𖡼](https://t.me/UU_NOVEL/34)")
-  elseif Text== "في القطار السعيد"  then return sendMsg(msg.chat_id_,msg.id_,"[في القطار السريع  𖡼](https://t.me/UU_NOVEL/33).")
-  elseif Text== "الرمز المفقود"  then  return sendMsg(msg.chat_id_,msg.id_,"[الرمز المفقود  𖡼](https://t.me/UU_NOVEL/32)."  )
+  elseif Text== "Echo Boomers"  then return sendMsg(msg.chat_id_,msg.id_,"[Echo Boomers  𖡼](https://t.me/SouRce_hacker1/137)")
+  elseif Text== "Chick Fight"  then return sendMsg(msg.chat_id_,msg.id_," [Chick Fight  𖡼](https://t.me/SouRce_hacker1/138) ")
+  elseif Text== "Jingle Jangle"  then return sendMsg(msg.chat_id_,msg.id_,"[Jingle Jangle  𖡼](https://t.me/SouRce_hacker1/139)")
+  elseif Text== "Come Away"  then return sendMsg(msg.chat_id_,msg.id_,"[ Come Away  𖡼](https://t.me/SouRce_hacker1/140)")
+  elseif Text== "Death Files"  then return sendMsg(msg.chat_id_,msg.id_,"[Death Files  𖡼](https://t.me/SouRce_hacker1/141).")
+  elseif Text== "The Retreat"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat  𖡼](https://t.me/SouRce_hacker1/142)."  )
   elseif Text== "مساعدة"  then return sendMsg(msg.chat_id_,msg.id_,"لعرض قائمة المساعدة اكتب الاوامر 🌚❤️")
   elseif Text== "خول"  then return sendMsg(msg.chat_id_,msg.id_,"شبهك.")
   elseif Text== "حلو"  then return sendMsg(msg.chat_id_,msg.id_,"مش احلي منك")
