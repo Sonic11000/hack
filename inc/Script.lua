@@ -2449,17 +2449,42 @@ end
 
 if MsgText[1] == "كرتون" or MsgText[1]=="الكرتون" then
 return [[
-⌔ - روايات الغموض الحاليه 
+⌔ - قائمه الكرتون الحاليه 
  — — — — — — — — —        
-⌔︙ الرمز المفقود
+⌔︙cars 1-2-3
    
-⌔︙ في القطار السريع
+⌔︙Ice Age 1-2-3-4-5
 
-⌔︙نيلوفر أسود
+⌔︙The Smurfs 1-2
 
-⌔︙اللوح الازرق 
+⌔︙المحدودة شركة المرعبين المحدودة
 
-⌔︙جثه في الخندق
+⌔︙Toystory 4
+
+⌔︙Ralph breaks the internet
+
+⌔︙Pirates of the Caribbean
+
+⌔︙Dolphin Reef
+
+⌔︙Rampage
+
+⌔︙kung fu panda 3
+
+⌔︙walle
+
+⌔︙Harry Potter 1-2-3-4-5-6-7-8
+
+⌔︙How to Train Your Dragon 1-2-3
+
+⌔︙Spider-Man 1-2-3
+
+⌔︙Aquaman
+
+⌔︙CaptainAmerica 1-2-3
+
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[source Blacker𖡶 ](https://t.me/SouRce_hacker1)
 
 ]]
 end
@@ -4110,6 +4135,42 @@ elseif Text:match(Bot_Name.."كيفك") then
   elseif Text== "Come Away"  then return sendMsg(msg.chat_id_,msg.id_,"[ Come Away  𖡼](https://t.me/SouRce_hacker1/140)")
   elseif Text== "Death Files"  then return sendMsg(msg.chat_id_,msg.id_,"[Death Files  𖡼](https://t.me/SouRce_hacker1/141).")
   elseif Text== "The Retreat"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat  𖡼](https://t.me/SouRce_hacker1/142)."  )
+elseif Text== "cars 1"  then  return sendMsg(msg.chat_id_,msg.id_,"[cars 1  𖡼](https://t.me/SouRce_hacker1/145)."  )
+  elseif Text== "cars 2"  then  return sendMsg(msg.chat_id_,msg.id_,"[cars 2  𖡼](https://t.me/SouRce_hacker1/146)."  )
+  elseif Text== "cars 3"  then  return sendMsg(msg.chat_id_,msg.id_,"[cars 3  𖡼](https://t.me/SouRce_hacker1/147)."  )
+  elseif Text== "Ice Age 1"  then  return sendMsg(msg.chat_id_,msg.id_,"[Ice Age 1  𖡼](https://t.me/SouRce_hacker1/148)."  )
+  elseif Text== "Ice Age 2"  then  return sendMsg(msg.chat_id_,msg.id_,"[Ice Age 2  𖡼](https://t.me/SouRce_hacker1/149)."  )
+  elseif Text== "Ice Age 3"  then  return sendMsg(msg.chat_id_,msg.id_,"[Ice Age 3  𖡼](https://t.me/SouRce_hacker1/150)."  )
+  elseif Text== "Ice Age 4"  then  return sendMsg(msg.chat_id_,msg.id_,"[Ice Age 4  𖡼](https://t.me/SouRce_hacker1/151)."  )
+  elseif Text== "Ice Age 5"  then  return sendMsg(msg.chat_id_,msg.id_,"[Ice Age 5  𖡼](https://t.me/SouRce_hacker1/152)."  )
+  elseif Text== "The Smurfs1"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Smurfs1  𖡼](https://t.me/SouRce_hacker1/153)."  )
+  elseif Text== "The Smurfs2"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Smurfs2  𖡼](https://t.me/SouRce_hacker1/154)."  )
+  elseif Text== "المحدودة شركة المرعبين المحدودة"  then  return sendMsg(msg.chat_id_,msg.id_,"[المحدودة شركة المرعبين المحدودة  𖡼](https://t.me/SouRce_hacker1/155)."  )
+  elseif Text== "Toystory 4"  then  return sendMsg(msg.chat_id_,msg.id_,"[Toy_story_4  𖡼](https://t.me/SouRce_hacker1/156)."  )
+  elseif Text== "Ralph breaks the internet"  then  return sendMsg(msg.chat_id_,msg.id_,"[Ralph breaks the internet  𖡼](https://t.me/SouRce_hacker1/157)."  )
+  elseif Text== "Pirates of the Caribbean"  then  return sendMsg(msg.chat_id_,msg.id_,"[Pirates of the Caribbean  𖡼](https://t.me/SouRce_hacker1/158)."  )
+  elseif Text== "Dolphin Reef"  then  return sendMsg(msg.chat_id_,msg.id_,"[Dolphin Reef  𖡼](https://t.me/SouRce_hacker1/159)."  )
+  elseif Text== "Rampage"  then  return sendMsg(msg.chat_id_,msg.id_,"[Rampage  𖡼](https://t.me/SouRce_hacker1/160)."  )
+  elseif Text== "kung fu panda 3"  then  return sendMsg(msg.chat_id_,msg.id_,"[kung fu panda 3  𖡼](https://t.me/SouRce_hacker1/161)."  )
+  elseif Text== "walle"  then  return sendMsg(msg.chat_id_,msg.id_,"[walle  𖡼](https://t.me/SouRce_hacker1/162)."  )
+  elseif Text== "Harry Potter1"  then  return sendMsg(msg.chat_id_,msg.id_,"[Harry Potter1  𖡼](https://t.me/SouRce_hacker1/164)."  )
+  elseif Text== "Harry Potter2"  then  return sendMsg(msg.chat_id_,msg.id_,"[Harry Potter2  𖡼](https://t.me/SouRce_hacker1/165)."  )
+  elseif Text== "Harry Potter3"  then  return sendMsg(msg.chat_id_,msg.id_,"[Harry Potter3  𖡼](https://t.me/SouRce_hacker1/166)."  )
+  elseif Text== "Harry Potter4"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat4  𖡼](https://t.me/SouRce_hacker1/167)."  )
+  elseif Text== "Harry Potter5"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat5  𖡼](https://t.me/SouRce_hacker1/168)."  )
+  elseif Text== "Harry Potter6"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat6  𖡼](https://t.me/SouRce_hacker1/169)."  )
+  elseif Text== "Harry Potter7"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat7  𖡼](https://t.me/SouRce_hacker1/170)."  )
+  elseif Text== "Harry Potter8"  then  return sendMsg(msg.chat_id_,msg.id_,"[The Retreat8 𖡼](https://t.me/SouRce_hacker1/171)."  )
+  elseif Text== "How to Train Your Dragon1"  then  return sendMsg(msg.chat_id_,msg.id_,"[How to Train Your Dragon1  𖡼](https://t.me/SouRce_hacker1/173)."  )
+  elseif Text== "How to Train Your Dragon2"  then  return sendMsg(msg.chat_id_,msg.id_,"[How to Train Your Dragon2  𖡼](https://t.me/SouRce_hacker1/174)."  )
+  elseif Text== "How to Train Your Dragon3"  then  return sendMsg(msg.chat_id_,msg.id_,"[How to Train Your Dragon3  𖡼](https://t.me/SouRce_hacker1/175)."  )
+  elseif Text== "Spider-Man1"  then  return sendMsg(msg.chat_id_,msg.id_,"[Spider-Man1  𖡼](https://t.me/SouRce_hacker1/176)."  )
+  elseif Text== "Spider-Man2"  then  return sendMsg(msg.chat_id_,msg.id_,"[Spider-Man2  𖡼](https://t.me/SouRce_hacker1/177)."  )
+  elseif Text== "Spider-Man3"  then  return sendMsg(msg.chat_id_,msg.id_,"[Spider-Man3  𖡼](https://t.me/SouRce_hacker1/178)."  )
+  elseif Text== "Aquaman"  then  return sendMsg(msg.chat_id_,msg.id_,"[Aquaman  𖡼](https://t.me/SouRce_hacker1/183)."  )
+  elseif Text== "CaptainAmerica1"  then  return sendMsg(msg.chat_id_,msg.id_,"[CaptainAmerica1  𖡼](https://t.me/SouRce_hacker1/184)."  )
+  elseif Text== "CaptainAmerica2"  then  return sendMsg(msg.chat_id_,msg.id_,"[CaptainAmerica2  𖡼](https://t.me/SouRce_hacker1/185)."  )
+  elseif Text== "CaptainAmerica3"  then  return sendMsg(msg.chat_id_,msg.id_,"[CaptainAmerica3 𖡼](https://t.me/SouRce_hacker1/186)."  )
   elseif Text== "مساعدة"  then return sendMsg(msg.chat_id_,msg.id_,"لعرض قائمة المساعدة اكتب الاوامر 🌚❤️")
   elseif Text== "خول"  then return sendMsg(msg.chat_id_,msg.id_,"شبهك.")
   elseif Text== "حلو"  then return sendMsg(msg.chat_id_,msg.id_,"مش احلي منك")
