@@ -2489,6 +2489,88 @@ return [[
 ]]
 end
 
+if MsgText[1] == "اغاني" or MsgText[1]=="الاغاني" then
+return [[
+
+- إليك قائمه المغنيين 💥🖤
+
+- اكتب اسم المغني وستظهر لك قائمه الاغاني واختر اغنيتك 💥🖤
+––––––––––––––––––––––––––––––––
+
+⌁︙احمد كامل
+
+⌁︙ابو الانوار
+
+⌁ ︙ابيوسف
+
+⌁ ︙باتيسيوتا
+
+⌁︙بابلو
+
+⌁︙تامر عاشور
+
+⌁ ︙حسين الجسمي
+
+⌁︙حلقولو
+
+⌁ ︙عنبه
+
+⌁ ︙عمار حسني
+
+⌁ ︙مسلم
+
+⌁ ︙محمد سعيد
+
+⌁ ︙ويجز
+
+⌁ ︙ويزي
+
+- سيتم اضافة باقي المغنيين قريبا 💥🖤
+––––––––––––––––––––––––––––––––
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[source hacker1𖡶 ](https://t.me/SouRce_hacker1)
+
+]]
+end
+
+
+if MsgText[1] == "احمدكامل" or MsgText[1]=="احمدكامل" then
+return [[
+
+إليك قائمة اغاني احمد كامل 💥🖤
+––––––––––––––––––––––––––
+
+⌁ ︙قصاد بابك 
+
+⌁ ︙زمن المعجزات
+
+⌁ ︙خليك صاحي
+
+⌁ ︙ياليل
+
+⌁ ︙مبقتش اخاف 
+
+⌁ ︙كان في طفل
+
+⌁ ︙قولي
+
+⌁ ︙تتحوزيني
+
+⌁ ︙مش شرط
+
+⌁ ︙كانسر
+
+⌁ ︙لو يسالوكي
+
+⌁ ︙متزعليش
+
+––––––––––––––––––––––––––
+𝙳𝙴𝚅 𖡇 : [Alamy 𖡼](https://t.me/Alamy3)
+𝙲𝙷 𖣲. :[source hacker1𖡶 ](https://t.me/SouRce_hacker1)
+
+]]
+end
+
 if MsgText[1] == "التاريخ" then
 return "\n•  الـتـاريـخ : "..os.date("%Y/%m/%d")
 end
@@ -4171,6 +4253,18 @@ elseif Text== "cars 1"  then  return sendMsg(msg.chat_id_,msg.id_,"[cars 1  𖡼
   elseif Text== "CaptainAmerica1"  then  return sendMsg(msg.chat_id_,msg.id_,"[CaptainAmerica1  𖡼](https://t.me/SouRce_hacker1/184)."  )
   elseif Text== "CaptainAmerica2"  then  return sendMsg(msg.chat_id_,msg.id_,"[CaptainAmerica2  𖡼](https://t.me/SouRce_hacker1/185)."  )
   elseif Text== "CaptainAmerica3"  then  return sendMsg(msg.chat_id_,msg.id_,"[CaptainAmerica3 𖡼](https://t.me/SouRce_hacker1/186)."  )
+ elseif Text== "قصاد بابك"  then  return sendMsg(msg.chat_id_,msg.id_,"[قصاد بابك 𖡼](https://t.me/SouRce_hacker1/190)."  )
+  elseif Text== "زمن المعجزات"  then  return sendMsg(msg.chat_id_,msg.id_,"[زمن المعجزات 𖡼](https://t.me/SouRce_hacker1/191)."  )
+  elseif Text== "خليك صاحي"  then  return sendMsg(msg.chat_id_,msg.id_,"[خليك صاحي 𖡼](https://t.me/SouRce_hacker1/192)."  )
+  elseif Text== "ياليل"  then  return sendMsg(msg.chat_id_,msg.id_,"[ياليل 𖡼](https://t.me/SouRce_hacker1/193)."  )
+  elseif Text== "مبقتش اخاف"  then  return sendMsg(msg.chat_id_,msg.id_,"[مبقتش اخاف 𖡼](https://t.me/SouRce_hacker1/194)."  )
+  elseif Text== "كان في طفل"  then  return sendMsg(msg.chat_id_,msg.id_,"[كان في طفل 𖡼](https://t.me/SouRce_hacker1/195)."  )
+  elseif Text== "قولي"  then  return sendMsg(msg.chat_id_,msg.id_,"[قولي 𖡼](https://t.me/SouRce_hacker1/196)."  )
+  elseif Text== "تتجوزيني"  then  return sendMsg(msg.chat_id_,msg.id_,"[تتجوزيني 𖡼](https://t.me/SouRce_hacker1/197)."  )
+  elseif Text== "مش شرط"  then  return sendMsg(msg.chat_id_,msg.id_,"[مش شرط 𖡼](https://t.me/SouRce_hacker1/198)."  )
+  elseif Text== "كانسر"  then  return sendMsg(msg.chat_id_,msg.id_,"[كانسر 𖡼](https://t.me/SouRce_hacker1/199)."  )
+  elseif Text== "لو يسالوكي"  then  return sendMsg(msg.chat_id_,msg.id_,"[لو يسالوكي 𖡼](https://t.me/SouRce_hacker1/200)."  )
+  elseif Text== "متزعليش"  then  return sendMsg(msg.chat_id_,msg.id_,"[متزعليش 𖡼](https://t.me/SouRce_hacker1/201)."  )
   elseif Text== "مساعدة"  then return sendMsg(msg.chat_id_,msg.id_,"لعرض قائمة المساعدة اكتب الاوامر 🌚❤️")
   elseif Text== "خول"  then return sendMsg(msg.chat_id_,msg.id_,"شبهك.")
   elseif Text== "حلو"  then return sendMsg(msg.chat_id_,msg.id_,"مش احلي منك")
@@ -4618,7 +4712,8 @@ if not redis:get('kar') then
   "^(الاجنبي)$",
   "^(كرتون)$",
   "^(الكرتون)$",
-
+  "^(اغاني)$",
+  "^(الاغاني)$",
 			
 			
 			
