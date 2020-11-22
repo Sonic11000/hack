@@ -2371,15 +2371,15 @@ end
 
 if MsgText[1] == "السورس" or MsgText[1]=="سورس" then
 return [[
- ✧ 𝒔𝒐𝒖𝒓𝒄𝒆 𝒉𝒂𝒄𝒌𝒆𝒓 ✧
- °°°°°°°°°°°°°°°°°°°°°°°° 
- • 𝒅𝒆𝒗 >> [˹ 𝒂𝒍𝒂𝒎𝒚𖤝.](t.me/Alamy3)
- • 𝒅𝒆𝒗 >> [˹ 𝒎𝒐𝒉𝒂𝒎𝒆𝒅.](t.me/Best_roma5)
-• 𝒅𝒆𝒗 >> [˹ 𝒍𝒐𝒐𝒌𝒂𖤝.](t.me/Lookacv)
-• 𝒅𝒆𝒗 >> [˹ 𝒔𝒂𝒎𝒂𝒓𝒂𝒖𝒊𖤝.](t.me/XxxMalificentxxX)
-• 𝒅𝒆𝒗 >> [˹ 𝒎𝒐𝒐𝒅𝒚𖤝.](t.me/moody52)
-• • >> [˹ 𝒔𝒐𝒖𝒓𝒄𝒆_𝒉𝒂𝒄𝒌𝒆𝒓𖤝.](t.me/SouRce_hacker)
-°°°°°°°°°°°°°°°°°°°°°°°°
+ 𓃋  [☆𝙳𝙴𝚅☆](t.me/Alamy3)
+
+𓃋 [☆𝙳𝙴𝚅☆](t.me/Best_roma5)
+
+𓃋 [☆ 𝙳𝙴𝚅☆](t.me/Lookacv)
+
+𓃋 [☆𝙲𝙷☆](t.me/SouRce_hacker)
+
+𓃋 [☆𝚃𝚆𝙰𝚂𝙾𝙻☆](t.me/FlassTas4_bot)
 ]]
 end
 
