@@ -639,7 +639,7 @@ elseif  UserID == 1153357069 then
 var =  'مالك السورس'
 elseif  UserID == 1186900224 then
 var =  'مطور السورس'
-elseif  UserID == 1377559539 then
+elseif  UserID == 13559539 then
 var =  'مالك السورس'
 elseif  UserID == 1359541149 then
 var =  'مطور  السورس'
